@@ -1,2 +1,4 @@
-# D3JS examples
+#D3JS examples
 This project contains all the D3JS examples.
+
+The idea is to create reusable code for different project where it can be plugged in.
